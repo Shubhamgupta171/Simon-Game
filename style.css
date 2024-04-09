@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(113, 223, 236);
+    /* background-image: url('1.webp'); */
+    font-style: oblique;
+    text-align: center;
+    background-size: cover;
+
+    
+}
+h1{
+    color:#f7786b;
+    text-align: center;
+}
+h2{
+    color:slateblue;
+    text-align: center;
+}
+.btn{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 10px solid black;
+    margin: 1.5rem;
+
+}
+.btncontainer{
+    display: flex;
+    justify-content: center;
+}
+.yellow{
+    background-color: yellow;
+
+}
+.red{
+    background-color: rgb(219, 51, 51);
+
+}
+.green{
+    background-color: rgb(59, 225, 59);
+}
+.purple{
+    background-color: rgb(190, 20, 190);
+}
+.flash{
+    background-color: white;
+}

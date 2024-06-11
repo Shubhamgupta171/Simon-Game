@@ -18,7 +18,7 @@ Simon is a memory game where players have to repeat a sequence of colors. This p
 
 ## Demo
 
-You can play the game online [here](link-to-demo).
+You can play the game online [here](https://simongame-git-main-shubhams-projects-85b0835d.vercel.app/).
 
 ## Installation
 
